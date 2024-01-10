@@ -1,1 +1,14 @@
-{}
+{
+  "2024-01-10 10:20:50.959": {
+    "username": "o.ivanko@me.com",
+    "message": "test"
+  },
+  "2024-01-10 10:21:32.556": {
+    "username": "its me",
+    "message": "first message"
+  },
+  "2024-01-10 10:22:06.276": {
+    "username": "its me again",
+    "message": "second message"
+  }
+}
